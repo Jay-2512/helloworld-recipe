@@ -1,5 +1,5 @@
 CC := ${CC}
-SRC = git/hello.c
+SRC = hello.c
 OUTPUT = hi
 CFLAGS := ${CFLAGS}
 LDFLAGS := ${LDFLAGS}
